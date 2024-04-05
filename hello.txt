@@ -7,4 +7,4 @@ yzz study git
 yzz study git
 yzz study git
 yzz study git master test
-yzz study git
+yzz study git hot-fix test
