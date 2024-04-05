@@ -6,5 +6,5 @@ yzz study git
 yzz study git
 yzz study git
 yzz study git
-yzz study git
+yzz study git master test
 yzz study git
